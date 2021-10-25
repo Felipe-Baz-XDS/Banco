@@ -1,0 +1,13 @@
+/home/felipe/Desktop/csharpcurso/Banco/ByteBank/bin/Debug/netcoreapp3.1/ByteBank
+/home/felipe/Desktop/csharpcurso/Banco/ByteBank/bin/Debug/netcoreapp3.1/ByteBank.deps.json
+/home/felipe/Desktop/csharpcurso/Banco/ByteBank/bin/Debug/netcoreapp3.1/ByteBank.runtimeconfig.json
+/home/felipe/Desktop/csharpcurso/Banco/ByteBank/bin/Debug/netcoreapp3.1/ByteBank.runtimeconfig.dev.json
+/home/felipe/Desktop/csharpcurso/Banco/ByteBank/bin/Debug/netcoreapp3.1/ByteBank.dll
+/home/felipe/Desktop/csharpcurso/Banco/ByteBank/bin/Debug/netcoreapp3.1/ByteBank.pdb
+/home/felipe/Desktop/csharpcurso/Banco/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.csprojAssemblyReference.cache
+/home/felipe/Desktop/csharpcurso/Banco/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.AssemblyInfoInputs.cache
+/home/felipe/Desktop/csharpcurso/Banco/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.AssemblyInfo.cs
+/home/felipe/Desktop/csharpcurso/Banco/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.csproj.CoreCompileInputs.cache
+/home/felipe/Desktop/csharpcurso/Banco/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.dll
+/home/felipe/Desktop/csharpcurso/Banco/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.pdb
+/home/felipe/Desktop/csharpcurso/Banco/ByteBank/obj/Debug/netcoreapp3.1/ByteBank.genruntimeconfig.cache
